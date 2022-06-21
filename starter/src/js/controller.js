@@ -24,15 +24,12 @@ const controlRecipes = async function () {
     // 2) Rendering Recipe
     recipeViews.render(model.state.recipe);
   } catch (err) {
-    alert(err);
+    console.log(err);
   }
 };
 
-// Easier way of listening to multiple events:
-['hashchange', 'load'].forEach(ev =>
-  window.addEventListener(ev, controlRecipes)
-);
+const init = function () {
+  recipeViews.addHandlerRender(controlRecipes);
+};
 
-// Old way individually
-// window.addEventListener('hashchange', showRecipe);
-// window.addEventListener('load', showRecipe);
+init();

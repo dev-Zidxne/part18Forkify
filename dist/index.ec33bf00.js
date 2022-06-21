@@ -533,9 +533,7 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"fstXO":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-var _esArrayIncludesJs = require("core-js/modules/es.array.includes.js"); // Old way individually
- // window.addEventListener('hashchange', showRecipe);
- // window.addEventListener('load', showRecipe);
+var _esArrayIncludesJs = require("core-js/modules/es.array.includes.js");
 var _webImmediateJs = require("core-js/modules/web.immediate.js");
 var _modelJs = require("./model.js");
 var _recipeViewsJs = require("./views/recipeViews.js");
@@ -555,14 +553,13 @@ const controlRecipes = async function() {
         // 2) Rendering Recipe
         (0, _recipeViewsJsDefault.default).render(_modelJs.state.recipe);
     } catch (err) {
-        alert(err);
+        console.log(err);
     }
 };
-// Easier way of listening to multiple events:
-[
-    "hashchange",
-    "load"
-].forEach((ev)=>window.addEventListener(ev, controlRecipes));
+const init = function() {
+    (0, _recipeViewsJsDefault.default).addHandlerRender(controlRecipes);
+};
+init();
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","core-js/modules/es.array.includes.js":"dkJzX","core-js/modules/web.immediate.js":"49tUX","regenerator-runtime":"dXNgZ","./model.js":"aa1aw","./views/recipeViews.js":"cL5kd"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
@@ -2424,7 +2421,7 @@ const loadRecipe = async function(id) {
         console.log(state.recipe);
     } catch (err) {
         // Temp Error Handling
-        console.error(`${err}XXX`);
+        console.error(`${err} XXX`);
     }
 };
 
@@ -2451,8 +2448,10 @@ const timeout = function(s) {
 };
 const getJSON = async function(url) {
     try {
+        const fetchPro = fetch(url);
         const res = await Promise.race([
-            (fetch(url), timeout((0, _config.TIMEOUT_SEC)))
+            fetchPro,
+            timeout((0, _config.TIMEOUT_SEC))
         ]);
         const data = await res.json();
         if (!res.ok) throw new Error(`${data.message} (${res.status})`);
@@ -2491,6 +2490,12 @@ class RecipeView {
         this.#parentElement.innerHTML = "";
         this.#parentElement.insertAdjacentHTML("afterbegin", markup);
     };
+    addHandlerRender(handler) {
+        [
+            "hashchange",
+            "load"
+        ].forEach((ev)=>window.addEventListener(ev, handler));
+    }
      #generateMarkup() {
         return `   
     <figure class="recipe__fig">
