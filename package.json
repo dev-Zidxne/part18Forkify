@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "scripts": {
+    "start": "parcel starter/index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zidxne1/part18Forkify.git"
+  },
+  "author": "Zidane Innis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zidxne1/part18Forkify/issues"
+  },
+  "homepage": "https://github.com/zidxne1/part18Forkify#readme",
+  "dependencies": {
+    "core-js": "^3.23.2",
+    "parcel": "2.6.1",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.6.1"
+  }
+}
