@@ -1,20 +1,23 @@
-7540
-62/home/zidxne/javascriptCourseCoding/part18Forkify/package.json1655812040822361385 0
-67/home/zidxne/javascriptCourseCoding/part18Forkify/package-lock.json1655812040822361385 0
-85/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views/recipeViews.js1655824730398823764 0
-70/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views1655824730398823764 1
+7555
+62/home/zidxne/javascriptCourseCoding/part18Forkify/package.json1655828431129413206 0
+67/home/zidxne/javascriptCourseCoding/part18Forkify/package-lock.json1655828431129413206 0
+74/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/config.js1655901307159702466 0
+85/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views/recipeViews.js1655901947042082525 0
+85/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views/resultsView.js1655901943894346707 0
+78/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views/View.js1655901944970255657 0
+70/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views1655893326028572891 1
 86/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/sass/_searchResults.scss1655775056511533040 0
 79/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/sass/_upload.scss1655775056511533040 0
 83/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/sass/_components.scss1655775056511533040 0
 65/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/img1655775056511533040 1
 86/home/zidxne/javascriptCourseCoding/part18Forkify/starter/forkify-flowchart-part-3.png1655775056511533040 0
-75/home/zidxne/javascriptCourseCoding/part18Forkify/dist/favicon.dd29872e.png1655817749013317621 0
-73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/icons.35d27858.svg1655817749033316780 0
-77/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.07365aa8.css.map1655817749013317621 0
-73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/icons.4c95ab8c.svg1655817749033316780 0
-73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.07365aa8.css1655817749013317621 0
-65/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.html1655817937154691521 0
-54/home/zidxne/javascriptCourseCoding/part18Forkify/dist1655824993095075210 1
+75/home/zidxne/javascriptCourseCoding/part18Forkify/dist/favicon.dd29872e.png1655902562648469388 0
+73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/icons.35d27858.svg1655902562648469388 0
+77/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.07365aa8.css.map1655902562632469842 0
+73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/icons.4c95ab8c.svg1655902562648469388 0
+73/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.07365aa8.css1655902562632469842 0
+65/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.html1655902562644469501 0
+54/home/zidxne/javascriptCourseCoding/part18Forkify/dist1655902562676468592 1
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/htmlparser2/LICENSE1655777268511686875 0
 84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/htmlparser2/README.md1655777268687687335 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/htmlparser2/lib/Tokenizer.d.ts.map1655777268675687303 0
@@ -248,7 +251,6 @@
 110/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/esnext.typed-array.find-last.js1655812039118408972 0
 98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.string.anchor.js1655812038898415127 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.symbol.split.js1655812038930414232 0
-101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/esnext.math.signbit.js1655812039078410091 0
 102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.string.trim-right.js1655812038918414569 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/esnext.map.find.js1655812039078410091 0
 98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.array.reverse.js1655812038510425992 0
@@ -624,12 +626,12 @@
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/last-index-of.js1655812040302375892 0
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/some.js1655812040430372322 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/find-index.js1655812039142408302 0
-72/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.ec33bf00.js1655824993091075004 0
+72/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.ec33bf00.js1655902562676468592 0
 103/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/includes.js1655812040202378681 0
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/join.js1655812040290376228 0
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.array.push.js1655812038510425992 0
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/index.js1655812040234377789 0
-72/home/zidxne/javascriptCourseCoding/part18Forkify/dist/logo.8da20c6b.png1655817749033316780 0
+72/home/zidxne/javascriptCourseCoding/part18Forkify/dist/logo.8da20c6b.png1655902562668468819 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/at.js1655812038110437193 0
 107/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/reduce-right.js1655812040382373661 0
 103/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/array/virtual/flat-map.js1655812039158407853 0
@@ -757,7 +759,7 @@
 101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object/define-getter.js1655812038162435737 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object/values.js1655812040702364733 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object/to-string.js1655812040674365515 0
-73/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/model.js1655825003283600346 0
+73/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/model.js1655901942770442642 0
 116/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object/get-own-property-descriptors.js1655812039190406959 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object/prevent-extensions.js1655812040366374107 0
 84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/object1655812040702364733 1
@@ -1447,6 +1449,14 @@
 101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.typed-array.find.js1655812038930414232 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/splice.js1655812040434372209 0
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/index-of.js1655812040202378681 0
+95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/fill.js1655812039130408637 0
+97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/instance/every.js1655812039122408859 0
+95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/some.js1655812040430372322 0
+102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/number/min-safe-integer.js1655812040338374888 0
+101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/find-index.js1655812039142408302 0
+96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/slice.js1655812040418372657 0
+99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/includes.js1655812040198378793 0
+96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/index.js1655812040210378458 0
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/input-event.js1655777269047688275 0
 112/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/package-manager/src/NodePackageManager.js1655777268807687648 0
 112/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-conic-gradients.js1655777268919687941 0
@@ -1542,8 +1552,6 @@
 107/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/serviceworkers.js1655777269091688390 0
 119/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/same-site-cookie-attribute.js1655777269091688390 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/instance/splice.js1655812040434372209 0
-97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/instance/every.js1655812039122408859 0
-95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/some.js1655812040430372322 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/imagecapture.js1655777269043688265 0
 80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/callsites/license1655777268563687011 0
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css3-colors.js1655777269003688161 0
@@ -1859,7 +1867,7 @@
 151/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/package.json1655777268971688077 0
 83/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/braces/lib/expand.js1655777268643687219 0
 73/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/braces/lib1655777268667687282 1
-64/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js1655824720238421805 1
+64/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js1655836473214243909 1
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/math/trunc.js1655812040686365179 0
 78/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/braces/index.js1655777268551686979 0
 69/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/braces1655777268595687095 1
@@ -2359,7 +2367,7 @@
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/htmlnano/lib/presets/max.js1655777268703687376 0
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/resolver-default/package.json1655777268599687105 0
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/json5/dist/index.js1655777268615687146 0
-78/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/controller.js1655824992995070067 0
+78/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/controller.js1655903469257403222 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/dist/unpacker/browserVersions.js1655777268847687752 0
 85/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/escalade/sync/index.js1655777268583687063 0
 102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/innertext.js1655777269043688265 0
@@ -2447,7 +2455,6 @@
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/terser/lib/parse.js1655777268875687826 0
 80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/binary-extensions1655777268591687084 1
 85/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/entities/lib/generated1655777268747687491 1
-96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/slice.js1655812040418372657 0
 98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/esnext.map.every.js1655812039074410201 0
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/array/filter-out.js1655812039130408637 0
 81/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/timsort/LICENSE.md1655777268579687052 0
@@ -2618,7 +2625,7 @@
 111/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/insertadjacenthtml.js1655777269047688275 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/object/is.js1655812040262377008 0
 111/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/runtime-js/lib/helpers/get-worker-url.js1655777268731687449 0
-68/home/zidxne/javascriptCourseCoding/part18Forkify/starter/index.html1655817937070693968 0
+68/home/zidxne/javascriptCourseCoding/part18Forkify/starter/index.html1655901945922175780 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/string/virtual/trim-start.js1655812040682365291 0
 124/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed1655777268831687711 1
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/svgo/plugins/mergeStyles.js1655777268787687596 0
@@ -2718,6 +2725,7 @@
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/promise/index.js1655812040218378236 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/src/builtins.js1655777268771687554 0
 172/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules/source-pnpm/dist.js1655777268783687585 0
+86/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/package.json1655828431069445411 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/proposals/array-is-template-object.js1655812038086437865 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/src/unix/legacy.cc1655777268703687376 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/OM.js1655777269079688358 0
@@ -2863,6 +2871,7 @@
 96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/reporter-cli/src/utils.js1655777268739687470 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/json5/dist/index.min.mjs1655777268735687460 0
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/cosmiconfig/dist/Explorer.js.map1655777268679687314 0
+84/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/views/searchView.js1655894111362376196 0
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/csso/lib/clean/TypeSelector.js1655777268831687711 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-boxshadow.js1655777268907687909 0
 91/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/escape-string-regexp/license1655777268547686969 0
@@ -3300,6 +3309,8 @@
 101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/object/define-getter.js1655812038162435737 0
 96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/core/lib/public/Target.js1655777268959688045 0
 91/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/types/lib/index.d.ts1655777268671687293 0
+98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/unshift.js1655812040698364845 0
+116/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/date-tolocaledatestring.js1655777269011688181 0
 109/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1655777268535686938 0
 109/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-font-palette.js1655777268943688004 0
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/packager-js/src/index.js1655777268711687398 0
@@ -3316,7 +3327,7 @@
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/htmlnano/docs/docs/060-contribute.md1655777268875687826 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/text-decoration.js1655777269099688411 0
 111/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@swc/helpers/src/_class_apply_descriptor_get.mjs1655777268847687752 0
-70/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel1655812040770362836 1
+70/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel1655828431089434676 1
 98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/svgo/plugins/cleanupListOfValues.js1655777268711687398 0
 103/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/string/virtual/index.js1655812040226378012 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/timsort/build/timsort.js1655777268627687178 0
@@ -3361,6 +3372,7 @@
 124/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/optimizer-image/parcel-image.linux-arm-gnueabihf.node1655777268943688004 0
 81/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/term-size/index.js1655777268667687282 0
 89/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/utils/lib/index.js1655777268851687763 0
+75/home/zidxne/javascriptCourseCoding/part18Forkify/starter/src/js/helpers.js1655855564769295765 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/core/test/test-utils.js1655777268975688087 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/packager-raw/lib1655777268535686938 1
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/is-extglob/index.js1655777268563687011 0
@@ -3498,6 +3510,7 @@
 91/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/instance/slice.js1655812040418372657 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-paged-media.js1655777268971688077 0
 120/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-font-rendering-controls.js1655777268943688004 0
+83/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/README.md1655828431069445411 0
 111/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/packages1655777268955688035 1
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/instance/un-this.js1655812040694364956 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/workers/lib/Handle.js1655777268715687408 0
@@ -3860,7 +3873,6 @@
 117/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/workers/test/integration/workerfarm/console.js1655777268683687324 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/typed-array/float64-array.js1655812039166407630 0
 91/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/workers/package.json1655777268803687638 0
-99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/includes.js1655812040198378793 0
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/input-color.js1655777269043688265 0
 121/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/package-manager/test/fixtures/has-foo/package.json1655777268839687732 0
 115/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/optimizer-image/parcel-image.darwin-x64.node1655777268879687836 0
@@ -4091,7 +4103,7 @@
 96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/csso/lib/replace/property/font.js1655777268811687659 0
 110/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/lmdb.h1655777268947688014 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/global-this.js1655812040178379351 0
-80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@msgpackr-extract1655812040770362836 1
+80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@msgpackr-extract1655828431089434676 1
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/semver/CHANGELOG.md1655777268631687188 0
 82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/css/LICENSE1655777268535686938 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@swc/helpers/src/_extends.mjs1655777268871687815 0
@@ -4406,7 +4418,6 @@
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/PN.js1655777269083688369 0
 81/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/json5/lib/parse.js1655777268671687293 0
 114/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.c1655777268827687701 0
-102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/core/src/ParcelConfig.schema.js1655777268935687982 0
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/regexp/match.js1655812040326375224 0
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/dist/unpacker/feature.js1655777269027688223 0
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/compressor-raw/LICENSE1655777268535686938 0
@@ -4577,6 +4588,9 @@
 119/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/prebuilds/win32-x64/node.napi.glibc.node1655777268887687857 0
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/values.js1655812040702364733 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/LICENSE1655777268535686938 0
+98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/async-iterator/from.js1655812039182407183 0
+95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/join.js1655812040290376228 0
+99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/src/watchman/BSER.cc1655777268631687188 0
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/src/windows1655777268771687554 1
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/instance/reverse.js1655812040398373214 0
 85/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/is-arrayish/.npmignore1655777268535686938 0
@@ -4974,9 +4988,6 @@
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-text-indent.js1655777268991688129 0
 77/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/csso/lib/clean1655777268835687721 1
 113/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/posthtml/node_modules/posthtml-parser/package.json1655777268607687126 0
-98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/async-iterator/from.js1655812039182407183 0
-99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/src/watchman/BSER.cc1655777268631687188 0
-95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/join.js1655812040290376228 0
 108/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/css-transitions.js1655777268995688139 0
 96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.object.seal.js1655812038546424983 0
 109/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/text-size-adjust.js1655777269103688421 0
@@ -5079,6 +5090,8 @@
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/regexp/replace.js1655812040394373327 0
 101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/transformer-react-refresh-wrap1655777268675687303 1
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/instance/pad-end.js1655812040350374553 0
+101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/esnext.math.signbit.js1655812039078410091 0
+98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/releases/fraction-0.1.js1655828431077441117 0
 102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/async-iterator/some.js1655812040430372322 0
 117/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1655777269063688317 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/font-feature.js1655777269031688234 0
@@ -5396,7 +5409,7 @@
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/SE.js1655777269091688390 0
 111/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/LICENSE1655777268715687408 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/KN.js1655777269055688296 0
-62/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules1655812040770362836 1
+62/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules1655828431089434676 1
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/BA.js1655777268811687659 0
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/promise/any.js1655812038078438089 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@swc/helpers/lib/_set.js1655777268803687638 0
@@ -5509,6 +5522,10 @@
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/CL.js1655777268867687805 0
 99/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@swc/helpers/lib/_read_only_error.js1655777268803687638 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/CR.js1655777268887687857 0
+92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/instance/flat.js1655812039162407743 0
+104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/last-index-of.js1655812040302375892 0
+107/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/terser/lib/compress/drop-side-effect-free.js1655777268831687711 0
+110/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/css-tree/lib/tokenizer/char-code-definitions.js1655777268731687449 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/NZ.js1655777269075688348 0
 79/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/term-size/vendor1655777268611687136 1
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/YT.js1655777269115688452 0
@@ -6074,6 +6091,7 @@
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/stable/date/set-year.js1655812040410372880 0
 80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/node_modules1655777267531684318 1
 89/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/escape.js1655812038938414008 0
+73/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional1655828431073443264 1
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/node_modules/node-addon-api1655777268767687544 1
 103/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/codeframe/test/codeframe.test.js1655777268847687752 0
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/slice.js1655812040418372657 0
@@ -6082,6 +6100,8 @@
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/node_modules/node-addon-api/index.js1655777268755687512 0
 110/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/package-manager/src/NodeResolverBase.js1655777268811687659 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/lmdb/node_modules/node-addon-api/LICENSE.md1655777268767687544 0
+102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/core/src/ParcelConfig.schema.js1655777268935687982 0
+82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/index.js1655828431073443264 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/string/virtual/fontsize.js1655812039166407630 0
 84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/web/timers.js1655812040646366295 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/DM.js1655777269015688192 0
@@ -6313,6 +6333,7 @@
 67/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/yaml1655777268835687721 1
 78/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/yaml/types.d.ts1655777268835687721 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/array/index-of.js1655812040202378681 0
+98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/releases/fraction-0.2.js1655828431077441117 0
 71/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/posthtml1655777268579687052 1
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/string/small.js1655812040422372545 0
 84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/weak-map1655812040698364845 1
@@ -6453,6 +6474,9 @@
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/is-binary-path/readme.md1655777268575687042 0
 91/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/chrome-trace-event/README.md1655777268603687115 0
 86/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/is-binary-path/index.js1655777268547686969 0
+82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/tests.js1655828431073443264 0
+89/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/array_mixins.js1655828431069445411 0
+82/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/releases1655828431077441117 1
 75/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/resolve-from1655777268551686979 1
 83/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/resolve-from/license1655777268551686979 0
 80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/csso/lib/usage.js1655777268831687711 0
@@ -6621,7 +6645,7 @@
 86/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/set/index.js1655812040218378236 0
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/core/lib/public/Asset.js1655777268771687554 0
 86/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/supports-color/index.js1655777268555686989 0
-68/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@lmdb1655812040770362836 1
+68/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@lmdb1655828431089434676 1
 101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/values.js1655812040702364733 0
 83/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@lmdb/lmdb-linux-x641655777268995688139 1
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/MD.js1655777269063688317 0
@@ -6660,7 +6684,7 @@
 109/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/nested1655777268951688024 1
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/react-error-overlay/LICENSE1655777268535686938 0
 97/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/symbol/description.js1655812038170435513 0
-81/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/.package-lock.json1655812040838360939 0
+81/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/.package-lock.json1655828431149402471 0
 122/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts1655777268663687272 0
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/posthtml/node_modules/posthtml-parser1655777268607687126 1
 86/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/parent-module/readme.md1655777268563687011 0
@@ -6729,8 +6753,6 @@
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/css-select/lib/types.d.ts.map1655777268751687502 0
 92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/nullthrows/nullthrows.js.flow1655777268587687073 0
 80/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/term-size/license1655777268579687052 0
-116/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/features/date-tolocaledatestring.js1655777269011688181 0
-98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/unshift.js1655812040698364845 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/term-size/vendor/windows1655777268627687178 1
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/dom-collections/for-each.js1655812039170407518 0
 136/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/bar.js1655777268719687418 0
@@ -6926,7 +6948,6 @@
 84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/regexp1655812040670365626 1
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/caniuse-lite/data/regions/NR.js1655777269075688348 0
 95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/regexp/dot-all.js1655812038486426663 0
-95/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/fill.js1655812039130408637 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/regexp/sticky.js1655812040438372098 0
 94/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/modules/es.math.tanh.js1655812038538425206 0
 102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/async-iterator/find.js1655812039150408077 0
@@ -7235,6 +7256,7 @@
 100/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/every.js1655812039122408859 0
 96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/string/virtual/link.js1655812040302375892 0
 102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/reverse.js1655812040398373214 0
+84/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/fractional/index.html1655828431073443264 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/find-index.js1655812039142408302 0
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/actual/array/virtual/to-sorted.js1655812040658365960 0
 106/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/watcher/src/linux/InotifyBackend.hh1655777268755687512 0
@@ -7485,7 +7507,7 @@
 90/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/entries.js1655812038498426326 0
 140/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/module.js1655777268931687972 0
 89/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/concat.js1655812038138436409 0
-76/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.ec33bf00.js.map1655824993095075210 0
+76/home/zidxne/javascriptCourseCoding/part18Forkify/dist/index.ec33bf00.js.map1655902562676468592 0
 87/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/from.js1655812039182407183 0
 104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/features/typed-array/unique-by.js1655812040694364956 0
 105/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/json-parse-even-better-errors/CHANGELOG.md1655777268551686979 0
@@ -7532,10 +7554,3 @@
 85/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/mdn-data/l10n/css.json1655777268703687376 0
 93/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/at.js1655812038102437417 0
 98/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/reverse.js1655812040398373214 0
-96/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/index.js1655812040210378458 0
-102/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/number/min-safe-integer.js1655812040338374888 0
-101/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/find-index.js1655812039142408302 0
-92/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/full/instance/flat.js1655812039162407743 0
-107/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/terser/lib/compress/drop-side-effect-free.js1655777268831687711 0
-110/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/css-tree/lib/tokenizer/char-code-definitions.js1655777268731687449 0
-104/home/zidxne/javascriptCourseCoding/part18Forkify/node_modules/core-js/es/array/virtual/last-index-of.js1655812040302375892 0

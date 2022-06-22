@@ -1,14 +1,14 @@
 import * as model from './model.js';
-import recipeViews from './views/recipeViews.js';
-import SearchView from './views/recipeViews.js';
+import recipeView from './views/recipeViews.js';
+import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import 'core-js/stable';
 import 'regenerator-runtime';
 import searchView from './views/searchView.js';
 
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 const controlRecipes = async function () {
   try {
@@ -16,15 +16,15 @@ const controlRecipes = async function () {
 
     if (!id) return;
 
-    recipeViews.renderSpinner();
+    recipeView.renderSpinner();
 
     // 1) Loading Recipe
     await model.loadRecipe(id);
 
     // 2) Rendering Recipe
-    recipeViews.render(model.state.recipe);
+    recipeView.render(model.state.recipe);
   } catch (err) {
-    recipeViews.renderError();
+    recipeView.renderError();
   }
 };
 
@@ -40,15 +40,16 @@ const controlSearchResults = async function () {
     await model.loadSearchResults(query);
 
     // 3) Render results
+    // resultsView.render(model.state.search.results);
 
-    resultsView.render(model.state.search.results);
+    resultsView.render(model.getSearchResultsPage());
   } catch (err) {
     console.log(err);
   }
 };
 
 const init = function () {
-  recipeViews.addHandlerRender(controlRecipes);
+  recipeView.addHandlerRender(controlRecipes);
   searchView.addHandlerSearch(controlSearchResults);
 };
 
