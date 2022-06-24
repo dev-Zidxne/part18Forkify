@@ -18,6 +18,7 @@
     "parcel": "2.6.1"
   },
   "dependencies": {
+    "core-js": "^3.23.2",
     "fracty": "^1.0.9"
   }
 }
