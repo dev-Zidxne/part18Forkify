@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "core-js": "^3.23.2",
-    "fracty": "^1.0.9"
+    "fracty": "^1.0.11"
   }
 }
