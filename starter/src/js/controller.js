@@ -7,8 +7,8 @@ import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 
-import 'core-js/stable';
-import 'regenerator-runtime';
+// import 'core-js/stable';
+// import 'regenerator-runtime';
 import searchView from './views/searchView.js';
 
 // if (module.hot) {

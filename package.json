@@ -22,9 +22,10 @@
   },
   "homepage": "https://github.com/zidxne1/part18Forkify#readme",
   "dependencies": {
-    "fracty": "^1.0.9"
+    "core-js": "^3.23.2"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "2.6.1"
+    "@parcel/transformer-sass": "2.6.1",
+    "parcel": "2.6.1"
   }
 }
