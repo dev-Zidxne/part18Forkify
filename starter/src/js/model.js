@@ -1,4 +1,4 @@
-// import { async } from 'regenerator-runtime';
+import { async } from 'regenerator-runtime';
 import { API_URL, RES_PER_PAGE } from './config';
 // import { getJSON, sendJSON } from './helpers';
 import { AJAX } from './helpers';
@@ -35,7 +35,15 @@ export const loadRecipe = async function (id) {
     state.recipe = createRecipeObject(data);
 
     if (state.bookmarks.some(bookmard => bookmard.id === id))
-      state.recipe.bookmarked = true;run build
+      state.recipe.bookmarked = true;
+    else state.recipe.bookmarked = false;
+
+    console.log(state.recipe);
+  } catch (err) {
+    // Temp Error Handling
+    console.error(`${err} XXX`);
+    throw err;
+  }
 };
 
 export const loadSearchResults = async function (query) {
